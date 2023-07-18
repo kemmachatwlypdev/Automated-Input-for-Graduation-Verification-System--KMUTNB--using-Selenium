@@ -1,4 +1,4 @@
-# Automated Graduation Verification System (KMUTNB) using Selenium
+# Automated Input for Graduation Verification System (KMUTNB) using Selenium
 
 This Python code automates the process of verifying graduation examination results on the Graduation Examination Verification System at KMUTNB (King Mongkut's University of Technology North Bangkok). It utilizes the Selenium library to interact with the system's web interface.
 
