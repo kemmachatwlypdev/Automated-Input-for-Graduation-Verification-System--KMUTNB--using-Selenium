@@ -17,6 +17,9 @@ This Python code automates the process of verifying graduation examination resul
 3. Set the `directory_path` variable to the desired directory where you want to save the screenshot.
 4. Run the code.
 
+## Example Screenshot
+![Screenshot](screenshot.png)
+
 ## Description
 The code automates the following steps:
 1. Launches a Chrome WebDriver and navigates to the Graduation Examination Verification System's website.
